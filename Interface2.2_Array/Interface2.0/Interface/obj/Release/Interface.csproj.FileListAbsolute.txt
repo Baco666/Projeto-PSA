@@ -1,0 +1,16 @@
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\bin\Release\Interface.exe.config
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\bin\Release\Interface.exe
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\bin\Release\Interface.pdb
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\bin\Release\S7.Net.dll
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\bin\Release\S7.Net.xml
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.csproj.AssemblyReference.cache
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.Connect.resources
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.Form1.resources
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.Properties.Resources.resources
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.Recipe.resources
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.csproj.GenerateResource.cache
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.csproj.CopyComplete
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.exe
+C:\Users\Inês Antunes\Desktop\INTERFACE\Interface2.0\Interface\obj\Release\Interface.pdb
